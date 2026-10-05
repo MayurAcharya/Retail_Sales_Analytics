@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment / credentials
+.env
+*.env
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MySQL backup/local files
+*.bak
+
+# Power BI temporary files
+~$*
